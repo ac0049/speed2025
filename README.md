@@ -1,1 +1,4 @@
-# speed2025
+# in theme.liquid
+## {% render 'lazy-reconvert' %}
+      
+##  </body>
