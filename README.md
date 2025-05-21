@@ -7,6 +7,8 @@
 <body>
 {% render 'lazy-reconvert' %}
 </body>
+
+```
 # lazy-convert
 ```
 <script type="text/javascript">
